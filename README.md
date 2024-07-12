@@ -19,7 +19,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/JusCurious.git
+git clone https://github.com/masterpiper211/JusCurious.git
 cd JusCurious
 ```
 
